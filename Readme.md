@@ -1,0 +1,2 @@
+# NKODICE-Text
+NKODICEのダイスを振る部分ををCUIベースで適当に実装
